@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9237d8a-ef6b-4d59-8353-4072ba5b268b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="30K5eJfZ56ZsiLjIfk5lyZWkYUY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.aula011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio036.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio037.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio038.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio039.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio041.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio043.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio40.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio_04.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Murilo.DESKTOP-IDLOSUC/Dropbox/Programming&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python/Mundo_2/Condições aninhadas" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.90" />
+        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9237d8a-ef6b-4d59-8353-4072ba5b268b" name="Changes" comment="" />
+      <created>1753363517870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753363517870</updated>
+      <workItem from="1753363519004" duration="8534000" />
+      <workItem from="1753385619034" duration="6946000" />
+      <workItem from="1753446295148" duration="877000" />
+      <workItem from="1753491333977" duration="78000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Programming$desafio043.coverage" NAME="desafio043 Coverage Results" MODIFIED="1753391702856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Mundo_2/Desafios" />
+    <SUITE FILE_PATH="coverage/Programming$desafio039.coverage" NAME="desafio039 Coverage Results" MODIFIED="1753390263749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Mundo_2/Desafios" />
+    <SUITE FILE_PATH="coverage/Programming$desafio_04.coverage" NAME="desafio_04 Coverage Results" MODIFIED="1753371970231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Mundo_1/Desafios" />
+    <SUITE FILE_PATH="coverage/Programming$desafio40.coverage" NAME="desafio40 Coverage Results" MODIFIED="1753390574275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Mundo_2/Desafios" />
+    <SUITE FILE_PATH="coverage/Programming$desafio_01.coverage" NAME="desafio_01 Coverage Results" MODIFIED="1753368411077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Mundo_1/Desafios" />
+    <SUITE FILE_PATH="coverage/Programming$desafio038.coverage" NAME="desafio038 Coverage Results" MODIFIED="1753389296322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Mundo_2/Desafios" />
+    <SUITE FILE_PATH="coverage/Programming$aula012.coverage" NAME="aula012 Coverage Results" MODIFIED="1753386762022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Mundo_2/Condições aninhadas" />
+    <SUITE FILE_PATH="coverage/Programming$desafio041.coverage" NAME="desafio041 Coverage Results" MODIFIED="1753390819277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Mundo_2/Desafios" />
+    <SUITE FILE_PATH="coverage/Programming$desafio_02.coverage" NAME="desafio_02 Coverage Results" MODIFIED="1753370241282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Mundo_1/Desafios" />
+    <SUITE FILE_PATH="coverage/Programming$desafio037.coverage" NAME="desafio037 Coverage Results" MODIFIED="1753388760719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Mundo_2/Desafios" />
+    <SUITE FILE_PATH="coverage/Programming$aula011.coverage" NAME="aula011 Coverage Results" MODIFIED="1753367858905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Mundo_1/Cores no Terminal" />
+    <SUITE FILE_PATH="coverage/Programming$desafio036.coverage" NAME="desafio036 Coverage Results" MODIFIED="1753446368406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Mundo_2/Desafios" />
+    <SUITE FILE_PATH="coverage/Programming$desafio_03.coverage" NAME="desafio_03 Coverage Results" MODIFIED="1753371183853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Mundo_1/Desafios" />
+  </component>
+</project>
