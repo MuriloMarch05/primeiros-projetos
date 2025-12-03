@@ -6,6 +6,7 @@ def calcular_area(l, c):
 def linha():
     print('-' * 30)
 
+
 linha()
 print('CONTROLE DE TERRENOS'.center(30))
 linha()
