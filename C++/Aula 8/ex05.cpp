@@ -59,5 +59,5 @@ int main()
     return 0;
 
 
-    // Para fazer os exercícios, usei o Gemini para me auxiliar na lógica em si e na correção, mas o código foi feito por mim. Não solicirei nenhum código pronto, apenas dicas e correções.
+    // Para fazer os exercícios, usei o Gemini para me auxiliar na lógica em si e na correção, mas o código foi feito por mim. Não solicitei nenhum código pronto, apenas dicas e correções.
 }
