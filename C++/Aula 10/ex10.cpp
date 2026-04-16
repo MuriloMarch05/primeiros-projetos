@@ -15,6 +15,7 @@ int main()
     int idade, cont=0, tot_mulheres=0, maior_idade=0, menor_idade=999;
     double salario, media_salarios, soma_salarios=0;
     char sexo;
+    cout << fixed << setprecision(2);
 
     do
     {
