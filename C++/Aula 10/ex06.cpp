@@ -57,4 +57,5 @@ int main()
     cout << "Total de reprovados: " << tot_rep << endl;
     cout << "Total de alunos da turma: " << (tot_apr + tot_rep) << endl;
 
+    return 0;
 }
