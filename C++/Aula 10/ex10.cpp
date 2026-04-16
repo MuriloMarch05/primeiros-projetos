@@ -60,4 +60,5 @@ int main()
     cout << "b) Maior idade: " << maior_idade << "Menor idade: " << menor_idade << endl;
     cout << "c) Mulheres com salario até R$1100: " << tot_mulheres << endl;
 
+    return 0;
 }
