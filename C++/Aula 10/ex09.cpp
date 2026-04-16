@@ -46,7 +46,6 @@ int main()
 
     }while(titulo > 0);
 
-
     cout << "O candidato José teve " << votos1 << " voto(s)" << endl;
     cout << "O candidato João teve " << votos2 << " voto(s)" << endl;
 
@@ -63,4 +62,5 @@ int main()
             {
                 cout << "Empate técnico! Necessário segundo turno.";
             }
+    return 0;
 }
