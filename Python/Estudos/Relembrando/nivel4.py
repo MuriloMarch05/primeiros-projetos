@@ -6,7 +6,7 @@ produtos = []
 
 for i in range(3):
     nome = input('Digite o nome do produto: ').strip().title()
-    preco = float(input('Preço do produto: '))
+    preco = float(input('Preço do produto: R$ '))
     produtos.append([nome, preco])
 
 for p in produtos:
