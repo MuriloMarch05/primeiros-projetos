@@ -24,7 +24,8 @@ int main()
             {
                 menor = numeros[l][c];
             } /* A lógica é que o primeiro número da última linha é considerado o menor inicialmente, depois, conforme vamos preenchendo a linha,
-            comparamos com o menor encontrado até então. No python, eu usava essa lógica, e realmente dá certo.*/
+            comparamos com o menor encontrado até então. No python, eu usava essa lógica, e realmente dá certo.
+            O primeiro é menor até que se encontre um menor do que ele.*/
         }
     }
 
