@@ -16,14 +16,15 @@ int main()
         {
             cin >> numeros[l][c];
 
-            if (l == 3 && c == 0)
+            if (l == 3 && c == 0) // Inicializa o menor com o primeiro elemento da última linha
             {
                 menor = numeros[l][c];
             }
-            else if (l == 3 && numeros[l][c] < menor)
+            else if (l == 3 && numeros[l][c] < menor) // Compara os elementos da última linha para encontrar o menor.
             {
                 menor = numeros[l][c];
-            }
+            } /* A lógica é que o primeiro número da última linha é considerado o menor inicialmente, depois, conforme vamos preenchendo a linha,
+            comparamos com o menor encontrado até então. No python, eu usava essa lógica, e realmente dá certo.*/
         }
     }
 
