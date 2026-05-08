@@ -19,11 +19,11 @@ int main()
         cout << "Digite o valor do vetor: ";
         cin >> X[i];
 
-        if(i == 0)
+        if(i == 0) // Inicializa o menor valor com o primeiro elemento do vetor.
         {
             menor = X[i];
         }
-        else if (X[i] < menor)
+        else if (X[i] < menor) // Se o valor atual for menor que o menor valor, atualiza o menor valor e a posição.
         {
             menor = X[i];
             posicao = i; // Armazena o índice do menor valor.
