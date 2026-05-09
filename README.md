@@ -19,16 +19,6 @@ Focado em:
 - Performance e gerenciamento de memória.
 - Aplicações embarcadas e sistemas de baixo nível.
 
-## 📂 Estrutura
-- `/python/`: Scripts e projetos em Python.
-- `/cpp/`: Exercícios de lógica, algoritmos e projetos em C++.
-- `/hardware/`: (Opcional) Esquemas, firmware ou testes de integração com circuitos.
-
-## 🛠️ Como executar
-Cada pasta contém um `README.md` específico ou instruções de compilação/execução no próprio código.
-- **Python:** `python arquivo.py`
-- **C++:** `g++ arquivo.cpp -o exec && ./exec`
-
 ---
 *Atualizado em: 9 de maio de 2026*  
 *Desenvolvido por Murilo | IFSP Birigui*
